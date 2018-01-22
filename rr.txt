@@ -1,0 +1,291 @@
+Python 3.6.3 (default, Oct  3 2017, 21:45:48) 
+[GCC 7.2.0] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> print rajesh
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(rajesh)?
+>>> print('RAJESH')
+RAJESH
+>>> PRINT("RAJESH")
+Traceback (most recent call last):
+  File "<pyshell#2>", line 1, in <module>
+    PRINT("RAJESH")
+NameError: name 'PRINT' is not defined
+>>> print("rajesh")
+rajesh
+>>> a=10
+>>> b=20
+>>> c=a+b
+>>> print(c)
+30
+>>> print("c")
+c
+>>> c=a-b
+>>> print(c)
+-10
+>>> c=a*b
+>>> print(c)
+200
+>>> c=a/b)
+SyntaxError: invalid syntax
+>>> c=a/b
+>>> print(c)
+0.5
+>>> print(C)
+Traceback (most recent call last):
+  File "<pyshell#16>", line 1, in <module>
+    print(C)
+NameError: name 'C' is not defined
+>>> c=3%2
+>>> print(c)
+1
+>>> c=2%4
+>>> print(c)
+2
+>>> a>b
+False
+>>> b>a
+True
+>>> a>=b
+False
+>>> a!=b
+True
+>>> a=b
+>>> a&b==0
+False
+>>> a=20
+>>> b=20
+>>> a=b
+>>> a==b
+True
+>>> a!==b
+SyntaxError: invalid syntax
+>>> a!=b
+False
+>>> print(a,b)
+20 20
+>>> print(c,a,b)
+2 20 20
+>>> print('c=',c
+)
+c= 2
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/rk1.py", line 2, in <module>
+    print(a)
+NameError: name 'a' is not defined
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/rk1.py", line 2, in <module>
+    print(a)
+NameError: name 'a' is not defined
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/rk1.py", line 2, in <module>
+    print(a)
+NameError: name 'a' is not defined
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/rk1.py", line 2, in <module>
+    print(a)
+NameError: name 'a' is not defined
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+3
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/rk1.py", line 2, in <module>
+    c=a+b
+NameError: name 'a' is not defined
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+3
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+3
+-1
+0.5
+>>> 5
+5
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+enter the valueenter the value 1
+>>> 4 5
+SyntaxError: invalid syntax
+>>> 3
+3
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+enter the valueenter the value 1
+>>> 10
+10
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+enter the valueenter the value 1
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+enter the value10
+enter the value 12
+102
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+enter the value 10
+enter the value  20
+ 10 20
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+enter the value 20
+enter the value 10
+ 2010
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+enter the value10
+enter the value 20
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/rk1.py", line 4, in <module>
+    print(c=a+b)
+TypeError: 'c' is an invalid keyword argument for this function
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+enter the value10
+enter the value 20
+30
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+enter the value10
+enter the value 20
+30
+enter the value30
+enter the value 40
+70.0
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+enter the value10
+enter the value 20
+30
+enter the value30
+enter the value 40.55
+70.55
+enter the value56
+enter the value 29.5
+26.5
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+enter the value23
+enter the value 4
+27
+enter the value53
+enter the value 53
+106.0
+enter the value2
+enter the value 33
+-1.0
+enter the value56
+enter the value 32
+88.0
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+enter the value10
+enter the value 20
+30
+enter the value10
+enter the value 20
+-10.0
+enter the value10
+enter the value 20
+200.0
+enter the value10
+enter the value 20
+0.5
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+namerkhj
+rkhj
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk1.py ==================
+rajesh
+enter the value12
+enter the value 12
+24
+enter the value12
+enter the value 13
+-1.0
+enter the value131
+enter the value 31
+4061.0
+enter the value13
+enter the value 1
+13.0
+namerk
+rk
+srkd
+srkd
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/rk 11.txt =================
+rajesh
+enter the value12
+enter the value 23
+enter the value21
+enter the value 213
+-192.0
+enter the value132
+enter the value 13
+1716.0
+enter the value13
+enter the value 13
+1.0
+name13
+13
+srkd
+srkd
+>>> 13
+13
+>>> 13
+13
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/rk 11.txt =================
+rajesh
+enter the value12
+enter the value 23
+False
+enter the value23
+enter the value 434
+-411.0
+enter the value343
+enter the value 43
+14749.0
+enter the value43
+enter the value 2
+21.5
+name12
+12
+srkd
+srkd
+>>> 
