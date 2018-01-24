@@ -1,0 +1,630 @@
+Python 3.6.3 (default, Oct  3 2017, 21:45:48) 
+[GCC 7.2.0] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> print("rajesh")
+rajesh
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk2.py ==================
+rajesh
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk2.py ==================
+rajesh
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk2.py ==================
+rajesh
+>>> 5/2
+2.5
+>>> 
+================== RESTART: /home/cs2017a207/rajesh/rk2.py ==================
+rajesh
+2.5
+>>> 15.2/2
+7.6
+>>> 50.2/2
+25.1
+>>> 5//2
+2
+>>> 5**2
+25
+>>> 2**6
+64
+>>> 24%25
+24
+>>> 2%5
+2
+>>> 2%1
+0
+>>> 5%3
+2
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/if statement.py ==============
+enter the value10
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/if statement.py", line 2, in <module>
+    if a>0:
+TypeError: '>' not supported between instances of 'str' and 'int'
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/if statement.py ==============
+enter the value10
+the value is positive
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/if statement.py ==============
+enter the value-29
+the value is negative
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/if statement.py ==============
+enter the value 0
+the value is zero
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/if statement.py ==============
+enter the value10
+the value is positive
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/if statement.py ==============
+enter the value-10
+the value is negative
+>>> 
+=========== RESTART: /home/cs2017a207/rajesh/if else statement.py ===========
+enter the value-10
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/if else statement.py", line 2, in <module>
+    if a>0:
+TypeError: '>' not supported between instances of 'str' and 'int'
+>>> 
+=========== RESTART: /home/cs2017a207/rajesh/if else statement.py ===========
+enter the value10
+the value is positive
+>>> 
+=========== RESTART: /home/cs2017a207/rajesh/if else statement.py ===========
+enter the value-10
+the value is negative
+>>> 
+============= RESTART: /home/cs2017a207/rajesh/elif statement.py =============
+enter the value 95
+95 is grade A
+>>> 
+============= RESTART: /home/cs2017a207/rajesh/elif statement.py =============
+enter the value 65
+65 is grade B
+>>> 
+============= RESTART: /home/cs2017a207/rajesh/elif statement.py =============
+enter the value 30
+30 is failed
+>>> 
+============= RESTART: /home/cs2017a207/rajesh/elif statement.py =============
+enter the value 50
+50 is grade C
+>>> 
+============= RESTART: /home/cs2017a207/rajesh/elif statement.py =============
+enter the value 99
+99 is grade A
+enter the lettera
+a is a vowel
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/vowel.py =================
+enter the letterk
+k is constant
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/while.py =================
+3
+4
+5
+6
+7
+8
+9
+10
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/while.py =================
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/while.py =================
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/while.py =================
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/while.py =================
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/while.py =================
+enter the value26
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+59
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+68
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+1
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+5
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+2
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+2
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+4
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+2
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+6
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+1
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+6
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+2
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+6
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+6
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+1
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+2
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+1
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+2
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+4
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+1
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+4
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+3
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+5
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+1
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+1
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+3
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+4
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+6
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+5
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+5
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+5
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+5
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+5
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/random.py =================
+6
+>>> 
