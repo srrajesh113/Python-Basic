@@ -1,0 +1,1186 @@
+Python 3.6.3 (default, Oct  3 2017, 21:45:48) 
+[GCC 7.2.0] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hi
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hi
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hi
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 1, in <module>
+    string
+NameError: name 'string' is not defined
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+1.0
+80
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+enter the value3
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 13, in <module>
+    if(a%2==0):
+TypeError: not all arguments converted during string formatting
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+enter the value3
+it is odd
+enter the number654
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 20, in <module>
+    print(a[3][2])
+IndexError: string index out of range
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+enter the value2
+it is even
+enter the number345
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 20, in <module>
+    print(a[3][2])
+TypeError: 'int' object is not subscriptable
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+enter the value2
+it is even
+enter the number32
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 20, in <module>
+    print(a[3][2])
+IndexError: string index out of range
+>>> 
+=============== RESTART: /home/cs2017a207/rajesh/opertor_s5.py ===============
+enter the number2
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/opertor_s5.py", line 3, in <module>
+    print(a[3][2])
+IndexError: string index out of range
+>>> 
+=============== RESTART: /home/cs2017a207/rajesh/opertor_s5.py ===============
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/opertor_s5.py", line 3, in <module>
+    print(a[3][2])
+TypeError: 'int' object is not subscriptable
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+enter the value3
+it is odd
+enter the value of a2
+2
+[4, 5, 50, 7, 8]
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+enter the value3
+it is odd
+enter the value of a45
+[10, 20, 30, [5, 64, 45], 7, 8]
+[4, 5, 50, 7, 8]
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+enter the value2
+it is even
+enter the value of a
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+enter the value5
+it is odd
+enter the value of a3
+[10, 20, 30, [5, 64, 3], 7, 8]
+[4, 5, 50, 7, 8]
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 27, in <module>
+    a[2]=5454
+TypeError: 'int' object does not support item assignment
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+enter the value4
+it is even
+enter the value of a2
+[10, 20, 30, [5, 64, 2], 7, 8]
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+b
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+enter the value2
+it is even
+enter the value of a3
+[10, 20, 30, [5, 64, 3], 7, 8]
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+enter the value2
+it is even
+enter the value of a3
+[10, 20, 30, [5, 64, 3], 7, 8]
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+a
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+enter the value2
+it is even
+enter the value of a3
+[10, 20, 30, [5, 64, 3], 7, 8]
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+b
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+enter the value3
+it is odd
+enter the value of a2
+[10, 20, 30, [5, 64, 2], 7, 8]
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+7
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+7
+2
+7
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+7
+2
+7
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 22, in <module>
+    a[2]=54
+TypeError: 'int' object does not support item assignment
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+7
+2
+7
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 22, in <module>
+    a[2]=int(54)
+TypeError: 'int' object does not support item assignment
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+7
+2
+7
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 22, in <module>
+    a[2]=54
+TypeError: 'int' object does not support item assignment
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+7
+2
+7
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 22, in <module>
+    t[2]=54
+TypeError: 'tuple' object does not support item assignment
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 24, in <module>
+    t[2]=54
+TypeError: 'tuple' object does not support item assignment
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 25, in <module>
+    t[2]=54
+TypeError: 'tuple' object does not support item assignment
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+enter the value2
+it is even
+enter the value of a3
+[10, 20, 30, [5, 64, 3], 7, 8]
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+enter the value2
+it is even
+enter the value of a3
+[10, 20, 30, [5, 64, 3], 7, 8]
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 56, in <module>
+    a[4][3]=100
+TypeError: 'int' object is not subscriptable
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+enter the value2
+it is even
+enter the value of a3
+[10, 20, 30, [5, 64, 3], 7, 8]
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 57, in <module>
+    a[4][3]=100
+TypeError: 'int' object is not subscriptable
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+enter the value3
+it is odd
+enter the value of a2
+[10, 20, 30, [5, 64, 2], 7, 8]
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+{32, 42, 12, 54}
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+{2, 5, 42, 12}
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+jes
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajes
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 55, in <module>
+    a=sqrt(-1)
+NameError: name 'sqrt' is not defined
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 55, in <module>
+    a=sqrt(-1)
+NameError: name 'sqrt' is not defined
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 55, in <module>
+    a=sqrt(-1)
+NameError: name 'sqrt' is not defined
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 56, in <module>
+    a=sqrt(-1)
+NameError: name 'sqrt' is not defined
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 56, in <module>
+    a=math.sqrt(-1)
+ValueError: math domain error
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 56, in <module>
+    math.sqrt(-1)
+ValueError: math domain error
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 56, in <module>
+    print(math.sqrt(-4))
+ValueError: math domain error
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 58, in <module>
+    a=set([15,8,3,25,6])
+TypeError: 'set' object is not callable
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 58, in <module>
+    a=set[15,8,3,25,6]
+TypeError: 'set' object is not subscriptable
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 59, in <module>
+    print(set(a))
+TypeError: 'set' object is not callable
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 59, in <module>
+    print(set(a))
+TypeError: 'set' object is not callable
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+enter the value2
+it is even
+enter the value of a3
+[10, 20, 30, [5, 64, 3], 7, 8]
+hi
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+enter the value2
+it is even
+enter the value of a3
+[10, 20, 30, [5, 64, 3], 7, 8]
+hi
+45
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+enter the value2
+it is even
+enter the value of a3
+[10, 20, 30, [5, 64, 3], 7, 8]
+hi
+45
+-3
+69
+>>> set={4,23,6,1}
+>>> set
+{1, 4, 6, 23}
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+enter the value2
+it is even
+enter the value of a3
+[10, 20, 30, [5, 64, 3], 7, 8]
+hi
+45
+-3
+69
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 16, in <module>
+    print(exp(z))
+NameError: name 'exp' is not defined
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+(8988.60557600688+20108.957337683332j)
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+(8988.60557600688+20108.957337683332j)
+(1+0j)
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+(7.38905609893065+0j)
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+(20.085536923187668+0j)
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+(1+0j)
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+(20.085536923187668+0j)
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+(1+0j)
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+(1+0j)
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 19, in <module>
+    print(cmath.log(x))
+ValueError: math domain error
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+(1+0j)
+(2.4849066497880004+0j)
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+(1+0j)
+(2.302585092994046+0j)
+80
+{545, 2, 3, 1, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+(1+0j)
+(2.302585092994046+0j)
+80
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 27, in <module>
+    set[3,545,2,1,7]
+TypeError: 'type' object is not subscriptable
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+(1+0j)
+(2.302585092994046+0j)
+80
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 27, in <module>
+    set(3,545,2,1,7)
+TypeError: set expected at most 1 arguments, got 5
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+(1+0j)
+(2.302585092994046+0j)
+80
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 28, in <module>
+    print(set(1))
+TypeError: 'int' object is not iterable
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+(1+0j)
+(2.302585092994046+0j)
+80
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 28, in <module>
+    print(set(1))
+TypeError: 'int' object is not iterable
+>>> 
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+(1+0j)
+(2.302585092994046+0j)
+80
+<class 'set'>
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+(1+0j)
+(2.302585092994046+0j)
+80
+{2, 3, 5, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+(1+0j)
+(2.302585092994046+0j)
+80
+{2, 3, 5, 7}
+7
+2
+7
+(2, 3, 4, 2, 2)
+['b', 'c']
+['c']
+[4, 5, 50, 7, 8]
+[10, 23, 5454, 32, 245, 67]
+c
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 6, 7, 8]]
+[[2, 3], [3, 4, 2], 4, 3, [3, 4, 5, 100, 7, 8]]
+[[2, 3], [3, 4, 2], 4]
+10.0
+enter the value
+============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+hirajesh
+rajesh
+(10+20j)
+(1+0j)
+(2.302585092994046+0j)
+80
+Traceback (most recent call last):
+  File "/home/cs2017a207/rajesh/datatype_s5.py", line 28, in <module>
+    print(set[0])
+TypeError: 'set' object does not support indexing
+>>> 
