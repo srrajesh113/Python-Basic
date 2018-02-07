@@ -43,5 +43,8 @@ while(c<=100):
     if(c==93):
         c=64
         print("snake has bite")
-    if(c>=100):
+    elif(c>=100):
+        c=c-r
+        print(" roll a dice again")
+    if(c==100):
         print("i had won the game")
