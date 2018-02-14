@@ -1,0 +1,26 @@
+Python 3.6.3 (default, Oct  3 2017, 21:45:48) 
+[GCC 7.2.0] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+================= RESTART: /home/cs2017a207/rajesh/RPS_S7.py =================
+enter the choicerock
+the computer paper the user rock
+u lose
+enter to play again press 1 or press any number to exit1
+ok
+enter the choicerock
+the computer paper the user rock
+u lose
+enter to play again press 1 or press any number to exit1
+ok
+enter the choicesi
+the computer paper the user si
+u win
+enter to play again press 1 or press any number to exit1
+ok
+enter the choicerock
+the computer si the user rock
+u win
+enter to play again press 1 or press any number to exit2
+thank u
+>>> 
