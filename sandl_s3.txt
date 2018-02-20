@@ -2,1375 +2,847 @@ Python 3.6.3 (default, Oct  3 2017, 21:45:48)
 [GCC 7.2.0] on linux
 Type "copyright", "credits" or "license()" for more information.
 >>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-player1 rajesh
+======================== RESTART: /home/rajesh/rl.py ========================
 enter r to roll a dicer
-the dice value 1
-the present place 1
+the dice value is 3
+the present place 3
 enter r to roll a dicer
-the dice value 5
-the present place 6
+the dice value is 1
+the present place 4
+enter r to roll a dicerr
+invaild option
+the dice value is 1
+the present place 4
+enter r to roll a dicerr
+invaild option
+the dice value is 1
+the present place 4
 enter r to roll a dicer
-the dice value 1
-the present place 7
-enter r to roll a dicer
-the dice value 2
+the dice value is 5
 the present place 9
 enter r to roll a dicer
-the dice value 1
-the present place 10
-enter r to roll a dicer
-the dice value 5
+the dice value is 6
 the present place 15
 enter r to roll a dicer
-the dice value 4
-the present place 19
+the dice value is 1
+the present place 16
 enter r to roll a dicer
-the dice value 3
+the dice value is 5
+the present place 21
+enter r to roll a dicer
+the dice value is 1
 the present place 22
 enter r to roll a dicer
-the dice value 5
-the present place 27
+the dice value is 4
+the present place 26
 enter r to roll a dicer
-the dice value 1
-the present place 28
+the dice value is 5
+the present place 31
 enter r to roll a dicer
-the dice value 4
-the present place 32
-enter r to roll a dicer
-the dice value 3
+the dice value is 4
 the present place 35
 enter r to roll a dicer
-the dice value 4
-the present place 39
+the dice value is 5
+the present place 40
+i had climed the ladder
 enter r to roll a dicer
-the dice value 5
-the present place 44
-enter r to roll a dicer
-the dice value 5
-the present place 49
-enter r to roll a dicer
-the dice value 5
-the present place 54
-enter r to roll a dicer
-the dice value 5
-the present place 59
-enter r to roll a dicer
-the dice value 4
-the present place 63
-enter r to roll a dicer
-the dice value 3
-the present place 66
-enter r to roll a dicer
-the dice value 1
-the present place 67
-enter r to roll a dicer
-the dice value 6
+the dice value is 5
 the present place 73
 enter r to roll a dicer
-the dice value 4
-the present place 77
+the dice value is 3
+the present place 76
+i had climed the ladder
 enter r to roll a dicer
-the dice value 5
-the present place 82
+the dice value is 1
+the present place 98
 enter r to roll a dicer
-the dice value 3
-the present place 85
+the dice value is 1
+the present place 99
 enter r to roll a dicer
-the dice value 5
-the present place 90
+the dice value is 1
+the present place 100
+ roll a dice again
 enter r to roll a dicer
-the dice value 3
-the present place 93
-snake
+the dice value is 5
+the present place 104
+ roll a dice again
 enter r to roll a dicer
-the dice value 4
-the present place 68
+the dice value is 4
+the present place 103
+ roll a dice again
 enter r to roll a dicer
-the dice value 6
-the present place 74
+the dice value is 4
+the present place 103
+ roll a dice again
 enter r to roll a dicer
-the dice value 6
-the present place 80
+the dice value is 2
+the present place 101
+ roll a dice again
+enter r to roll a dicer
+the dice value is 4
+the present place 103
+ roll a dice again
+enter r to roll a dicer
+the dice value is 3
+the present place 102
+ roll a dice again
+enter r to roll a dicer
+the dice value is 1
+the present place 100
+ roll a dice again
+enter r to roll a dicer
+the dice value is 4
+the present place 103
+ roll a dice again
+enter r to roll a dicer
+the dice value is 5
+the present place 104
+ roll a dice again
+enter r to roll a dicer
+the dice value is 5
+the present place 104
+ roll a dice again
+enter r to roll a dicer
+the dice value is 5
+the present place 104
+ roll a dice again
+enter r to roll a dicer
+the dice value is 4
+the present place 103
+ roll a dice again
+enter r to roll a dicer
+the dice value is 6
+the present place 105
+ roll a dice again
+enter r to roll a dicer
+the dice value is 4
+the present place 103
+ roll a dice again
+enter r to roll a dicer
+the dice value is 2
+the present place 101
+ roll a dice again
+enter r to roll a dicer
+the dice value is 6
+the present place 105
+ roll a dice again
+enter r to roll a dicer
+the dice value is 3
+the present place 102
+ roll a dice again
+enter r to roll a dicer
+the dice value is 5
+the present place 104
+ roll a dice again
+enter r to roll a dicer
+the dice value is 2
+the present place 101
+ roll a dice again
+enter r to roll a dicer
+the dice value is 1
+the present place 100
+ roll a dice again
+enter r to roll a dicer
+the dice value is 1
+the present place 100
+ roll a dice again
+enter r to roll a dicer
+the dice value is 4
+the present place 103
+ roll a dice again
+enter r to roll a dicer
+the dice value is 6
+the present place 105
+ roll a dice again
 enter r to roll a dice
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-player1rk
+======================== RESTART: /home/rajesh/rl.py ========================
 enter r to roll a dicer
-the dice value 2
+the dice value is 2
 the present place 2
 enter r to roll a dicer
-the dice value 2
+the dice value is 2
 the present place 4
 enter r to roll a dicer
-the dice value 6
-the present place 10
+the dice value is 3
+the present place 7
 enter r to roll a dicer
-the dice value 3
+the dice value is 6
 the present place 13
-ladder
+i had climed the ladder
 enter r to roll a dicer
-the dice value 3
+the dice value is 3
 the present place 37
 enter r to roll a dicer
-the dice value 6
+the dice value is 6
 the present place 43
 enter r to roll a dicer
-the dice value 3
-the present place 46
+the dice value is 1
+the present place 44
 enter r to roll a dicer
-the dice value 1
+the dice value is 3
 the present place 47
 enter r to roll a dicer
-the dice value 4
+the dice value is 4
 the present place 51
 enter r to roll a dicer
-the dice value 6
+the dice value is 6
 the present place 57
 enter r to roll a dicer
-the dice value 1
-the present place 58
+the dice value is 2
+the present place 59
 enter r to roll a dicer
-the dice value 2
+the dice value is 1
 the present place 60
 enter r to roll a dicer
-the dice value 6
-the present place 66
+the dice value is 5
+the present place 65
+snake has bite
 enter r to roll a dicer
-the dice value 3
-the present place 69
+the dice value is 2
+the present place 48
 enter r to roll a dicer
-the dice value 3
-rthe present place 72
-enter r to roll a dice
-invaild
-the dice value 3
-the present place 72
+the dice value is 5
+the present place 53
 enter r to roll a dicer
-invaild
-the dice value 3
-the present place 72
+the dice value is 2
+the present place 55
 enter r to roll a dicer
-the dice value 4
-the present place 76
-ladder
-renter r to roll a dice
-invaild
-the dice value 4
-the present place 97
-enter r to roll a dicer
-the dice value 3
-the present place 100
-won
-enter r to roll a dicer
-the dice value 2
-the present place 102
-player2r
-enter r to roll a dicer
-the dice value 1
-the present place 1
-enter r to roll a dicer
-the dice value 2
-the present place 3
-enter r to roll a dicerr
-invaild
-the dice value 2
-the present place 3
-enter r to roll a dicer
-the dice value 5
-the present place 8
-ladder
-enter r to roll a dice
-invaild
-the dice value 5
-the present place 37
-enter r to roll a dicer
-the dice value 6
-the present place 43
-enter r to roll a dicer
-the dice value 1
-the present place 44
-enter r to roll a dicer
-the dice value 6
-the present place 50
-enter r to roll a dicer
-the dice value 1
-the present place 51
-enter r to roll a dicer
-the dice value 3
-the present place 54
-enter r to roll a dicer
-the dice value 4
+the dice value is 3
 the present place 58
 enter r to roll a dicer
-the dice value 4
-the present place 62
+the dice value is 2
+the present place 60
 enter r to roll a dicer
-the dice value 5
-the present place 67
+the dice value is 6
+the present place 66
 enter r to roll a dicer
-the dice value 4
-the present place 71
+the dice value is 2
+the present place 68
 enter r to roll a dicer
-the dice value 5
-the present place 76
-ladder
+the dice value is 1
+the present place 69
 enter r to roll a dicer
-the dice value 2
-the present place 99
-enter r to roll a dicerr
-invaild
-the dice value 2
-the present place 99
-enter r to roll a dicer
-the dice value 1
-the present place 100
-won
-enter r to roll a dicer
-the dice value 1
-the present place 101
->>> 
->>> 
->>> 
-================ RESTART: /home/rajesh/rajesh/odd or even.py ================
-enter the number5
-odd
->>> 
-================ RESTART: /home/rajesh/rajesh/odd or even.py ================
-enter the number6
-even
->>> 
-================ RESTART: /home/rajesh/rajesh/odd or even.py ================
-enter the number3
-odd
-Traceback (most recent call last):
-  File "/home/rajesh/rajesh/odd or even.py", line 6, in <module>
-    while(i<=20):
-NameError: name 'i' is not defined
->>> 
-================ RESTART: /home/rajesh/rajesh/odd or even.py ================
-Traceback (most recent call last):
-  File "/home/rajesh/rajesh/odd or even.py", line 2, in <module>
-    while(i<=20):
-NameError: name 'i' is not defined
->>> 
-================ RESTART: /home/rajesh/rajesh/odd or even.py ================
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-player11
-enter r to roll a dicer
-the dice value 5
-the present place 5
-enter r to roll a dicer
-the dice value 4
-the present place 13
-ladder
-enter r to roll a dicer
-the dice value 2
-the present place 40
-ladder
-enter r to roll a dicer
-the dice value 2
+the dice value is 5
 the present place 74
 enter r to roll a dicer
-the dice value 1
-the present place 80
+the dice value is 3
+the present place 77
 enter r to roll a dicer
-the dice value 5
-the present place 86
-enter r to roll a dicer
-the dice value 6
-the present place 94
-enter r to roll a dicer
-the dice value 5
-the present place 101
-enter r to roll a dicer
-the dice value 5
-the present place 111
-enter r to roll a dicer
-the dice value 1
-the present place 118
-enter r to roll a dicer
-the dice value 2
-the present place 124
-enter r to roll a dicer
-the dice value 2
-the present place 129
-enter r to roll a dicer
-the dice value 3
-the present place 133
-enter r to roll a dicer
-the dice value 3
-the present place 142
-enter r to roll a dicer
-the dice value 2
-the present place 147
-enter r to roll a dicer
-the dice value 4
-the present place 155
-enter r to roll a dicer
-the dice value 1
-the present place 161
-enter r to roll a dicer
-the dice value 3
-the present place 167
-enter r to roll a dicer
-the dice value 6
-the present place 177
-enter r to roll a dicerr
-invaild
-the dice value 6
-the present place 183
-enter r to roll a dicer
-the dice value 4
-the present place 187
-enter r to roll a dicer
-the dice value 4
-the present place 194
-enter r to roll a dicer
-the dice value 5
-the present place 204
-enter r to roll a dicer
-the dice value 5
-the present place 212
-enter r to roll a dicer
-the dice value 5
-the present place 219
-enter r to roll a dicer
-the dice value 3
-the present place 225
-enter r to roll a dice
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-player11
-Traceback (most recent call last):
-  File "/home/rajesh/rajesh/snadd.py", line 7, in <module>
-    while(i<=20):
-TypeError: '<=' not supported between instances of 'str' and 'int'
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-player12
-enter r to roll a dicer
-the dice value 5
-the present place 5
-enter r to roll a dicer
-the dice value 1
-the present place 9
-enter r to roll a dicer
-the dice value 5
-the present place 17
-enter r to roll a dicer
-the dice value 5
-the present place 23
-enter r to roll a dicer
-the dice value 4
-the present place 28
-enter r to roll a dicer
-the dice value 3
-the present place 37
-enter r to roll a dicer
-the dice value 1
-the present place 40
-ladder
-enter r to roll a dicer
-the dice value 6
-the present place 75
-enter r to roll a dicer
-the dice value 5
+the dice value is 5
 the present place 82
 enter r to roll a dicer
-the dice value 6
-the present place 89
+the dice value is 5
+the present place 87
 enter r to roll a dicer
-the dice value 4
+the dice value is 4
+the present place 91
+enter r to roll a dicer
+the dice value is 5
+the present place 96
+enter r to roll a dicer
+the dice value is 6
+the present place 102
+ roll a dice again
+enter r to roll a dicer
+the dice value is 4
+the present place 100
+ roll a dice again
+enter r to roll a dicer
+the dice value is 4
+the present place 100
+ roll a dice again
+enter r to roll a dicer
+the dice value is 4
+the present place 100
+ roll a dice again
+enter r to roll a dicer
+the dice value is 3
 the present place 99
 enter r to roll a dicer
-the dice value 6
-the present place 106
+the dice value is 6
+the present place 105
+ roll a dice again
 enter r to roll a dicer
-the dice value 4
-the present place 113
+the dice value is 2
+the present place 101
+ roll a dice again
 enter r to roll a dicer
-the dice value 3
-the present place 118
+the dice value is 6
+the present place 105
+ roll a dice again
 enter r to roll a dicer
-the dice value 3
-the present place 126
-enter r to roll a dicer
-the dice value 3
-the present place 134
+the dice value is 1
+the present place 100
+ roll a dice again
 enter r to roll a dicerr
-invaild
-the dice value 6
-the present place 140
+invaild option
+the dice value is 1
+the present place 99
 enter r to roll a dicer
-the dice value 2
-the present place 142
-enter r to roll a dicer
-the dice value 3
-the present place 149
-enter r to roll a dicer
-the dice value 2
-the present place 154
-enter r to roll a dicer
-the dice value 2
-the present place 162
+the dice value is 3
+the present place 102
+ roll a dice again
+enter r to roll a dicerr
+invaild option
+the dice value is 3
+the present place 99
 enter r to roll a dice
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
+======================== RESTART: /home/rajesh/rl.py ========================
 enter r to roll a dicer
-the dice value 5
+the dice value is 6
+the present place 6
+enter r to roll a dicer
+the dice value is 1
+the present place 7
+enter r to roll a dicer
+the dice value is 4
+the present place 11
+snake has bite
+enter r to roll a dicer
+the dice value is 1
+the present place 3
+enter r to roll a dicer
+the dice value is 2
 the present place 5
 enter r to roll a dicer
-the dice value 5
-the present place 10
+the dice value is 6
+the present place 11
+snake has bite
 enter r to roll a dicer
-the dice value 2
-the present place 12
+the dice value is 6
+the present place 8
+i had climed the ladder
 enter r to roll a dicer
-the dice value 4
-the present place 16
+the dice value is 1
+the present place 38
+snake has bite
 enter r to roll a dicer
-the dice value 5
-the present place 21
-enter r to roll a dicer
-the dice value 4
-the present place 25
-snake
-enter r to roll a dicer
-the dice value 5
-the present place 9
-enter r to roll a dicer
-the dice value 1
-the present place 10
-enter r to roll a dicer
-the dice value 4
+the dice value is 5
 the present place 14
 enter r to roll a dicer
-the dice value 1
-the present place 15
+the dice value is 5
+the present place 19
 enter r to roll a dicer
-the dice value 6
-the present place 21
+the dice value is 5
+the present place 24
 enter r to roll a dicer
-the dice value 4
-the present place 25
-snake
+the dice value is 3
+the present place 27
 enter r to roll a dicer
-the dice value 5
+the dice value is 2
+the present place 29
+enter r to roll a dicer
+the dice value is 4
+the present place 33
+enter r to roll a dicer
+the dice value is 1
+the present place 34
+enter r to roll a dicer
+the dice value is 2
+the present place 36
+enter r to roll a dicer
+the dice value is 1
+the present place 37
+enter r to roll a dicer
+the dice value is 2
+the present place 39
+enter r to roll a dicer
+the dice value is 5
+the present place 44
+enter r to roll a dicer
+the dice value is 6
+the present place 50
+enter r to roll a dicer
+the dice value is 5
+the present place 55
+enter r to roll a dicer
+the dice value is 1
+the present place 56
+enter r to roll a dicer
+the dice value is 1
+the present place 57
+enter r to roll a dicer
+the dice value is 1
+the present place 58
+enter r to roll a dicer
+the dice value is 6
+the present place 64
+enter r to roll a dicer
+the dice value is 1
+the present place 65
+snake has bite
+enter r to roll a dicer
+the dice value is 5
+the present place 51
+enter r to roll a dicer
+the dice value is 4
+the present place 55
+enter r to roll a dicer
+the dice value is 1
+the present place 56
+enter r to roll a dicer
+the dice value is 5
+the present place 61
+enter r to roll a dicer
+the dice value is 2
+the present place 63
+enter r to roll a dicer
+the dice value is 2
+the present place 65
+snake has bite
+enter r to roll a dicer
+the dice value is 2
+the present place 48
+enter r to roll a dicer
+the dice value is 5
+the present place 53
+enter r to roll a dicer
+the dice value is 6
+the present place 59
+enter r to roll a dicer
+the dice value is 6
+the present place 65
+snake has bite
+enter r to roll a dicer
+the dice value is 6
+the present place 52
+i had climed the ladder
+enter r to roll a dicer
+the dice value is 2
+the present place 83
+enter r to roll a dicer
+the dice value is 4
+the present place 87
+enter r to roll a dicer
+the dice value is 6
+the present place 93
+snake has bite
+enter r to roll a dicer
+the dice value is 6
+the present place 70
+enter r to roll a dicer
+the dice value is 1
+the present place 71
+enter r to roll a dicer
+the dice value is 1
+the present place 72
+enter r to roll a dicer
+the dice value is 4
+the present place 76
+i had climed the ladder
+enter r to roll a dicer
+the dice value is 3
+the present place 100
+i had won the game
+ roll a dice again
+enter r to roll a dicer
+the dice value is 2
+the present place 99
+enter r to roll a dicer
+the dice value is 2
+the present place 101
+ roll a dice again
+enter r to roll a dicer
+the dice value is 3
+the present place 102
+ roll a dice again
+enter r to roll a dicer
+the dice value is 3
+the present place 102
+ roll a dice again
+enter r to roll a dicer
+the dice value is 6
+the present place 105
+ roll a dice again
+enter r to roll a dicer
+the dice value is 2
+the present place 101
+ roll a dice again
+enter r to roll a dicer
+the dice value is 3
+the present place 102
+ roll a dice again
+enter r to roll a dicer
+the dice value is 5
+the present place 104
+ roll a dice again
+enter r to roll a dicer
+the dice value is 3
+the present place 102
+ roll a dice again
+enter r to roll a dicer
+the dice value is 3
+the present place 102
+ roll a dice again
+enter r to roll a dicer
+the dice value is 3
+the present place 102
+ roll a dice again
+enter r to roll a dicer
+the dice value is 6
+the present place 105
+ roll a dice again
+enter r to roll a dicer
+the dice value is 2
+the present place 101
+ roll a dice again
+enter r to roll a dicer
+the dice value is 3
+the present place 102
+ roll a dice again
+enter r to roll a dicer
+the dice value is 6
+the present place 105
+ roll a dice again
+enter r to roll a dicer
+the dice value is 4
+the present place 103
+ roll a dice again
+enter r to roll a dicer
+the dice value is 2
+the present place 101
+ roll a dice again
+enter r to roll a dicer
+the dice value is 6
+the present place 105
+ roll a dice again
+enter r to roll a dicer
+the dice value is 6
+the present place 105
+ roll a dice again
+enter r to roll a dicer
+the dice value is 5
+the present place 104
+ roll a dice again
+enter r to roll a dicer
+the dice value is 1
+the present place 100
+i had won the game
+ roll a dice again
+enter r to roll a dicer
+the dice value is 5
+the present place 104
+ roll a dice again
+enter r to roll a dice
+invaild option
+the dice value is 5
+the present place 99
+enter r to roll a dicer
+the dice value is 5
+the present place 104
+ roll a dice again
+enter r to roll a dicer
+the dice value is 3
+the present place 102
+ roll a dice again
+enter r to roll a dicer
+the dice value is 6
+the present place 105
+ roll a dice again
+enter r to roll a dicer
+the dice value is 5
+the present place 104
+ roll a dice again
+enter r to roll a dice
+======================== RESTART: /home/rajesh/rl.py ========================
+enter r to roll a dicer
+the dice value is 1
+the present place 1
+enter r to roll a dicer
+the dice value is 5
+the present place 6
+enter r to roll a dicer
+the dice value is 3
 the present place 9
 enter r to roll a dicer
-the dice value 6
+the dice value is 3
+the present place 12
+enter r to roll a dicer
+the dice value is 3
+the present place 15
+renter r to roll a dice
+invaild option
+the dice value is 3
 the present place 15
 enter r to roll a dicer
-the dice value 3
-the present place 18
+the dice value is 4
+the present place 19
 enter r to roll a dicer
-the dice value 2
+the dice value is 4
+the present place 23
+enter r to roll a dicer
+the dice value is 5
+the present place 28
+enter r to roll a dicer
+the dice value is 3
+the present place 31
+enter r to roll a dicer
+the dice value is 4
+the present place 35
+enter r to roll a dicer
+the dice value is 2
+the present place 37
+enter r to roll a dicer
+the dice value is 3
+the present place 40
+i had climed the ladder
+enter r to roll a dicer
+the dice value is 3
+the present place 71
+enter r to roll a dicer
+the dice value is 4
+the present place 75
+enter r to roll a dicer
+the dice value is 4
+the present place 79
+enter r to roll a dicer
+the dice value is 5
+the present place 84
+enter r to roll a dicer
+the dice value is 5
+the present place 89
+snake has bite
+enter r to roll a dicer
+the dice value is 3
+the present place 73
+enter r to roll a dicer
+the dice value is 3
+the present place 76
+i had climed the ladder
+enter r to roll a dicer
+the dice value is 5
+the present place 102
+ roll a dice again
+enter r to roll a dicer
+the dice value is 1
+the present place 98
+enter r to roll a dicer
+the dice value is 5
+the present place 103
+ roll a dice again
+enter r to roll a dicer
+the dice value is 3
+the present place 101
+ roll a dice again
+enter r to roll a dicer
+the dice value is 3
+the present place 101
+ roll a dice again
+enter r to roll a dicer
+the dice value is 5
+the present place 103
+ roll a dice again
+enter r to roll a dicer
+the dice value is 2
+the present place 100
+i had won the game
+>>> 
+======================== RESTART: /home/rajesh/rl.py ========================
+enter r to roll a dicer
+the dice value is 6
+the present place 6
+enter r to roll a dicer
+the dice value is 4
+the present place 10
+enter r to roll a dicer
+the dice value is 1
+the present place 11
+snake has bite
+enter r to roll a dicer
+the dice value is 1
+the present place 3
+enter r to roll a dicer
+the dice value is 1
+the present place 4
+enter r to roll a dicer
+the dice value is 5
+the present place 9
+enter r to roll a dicer
+the dice value is 6
+the present place 15
+enter r to roll a dicer
+the dice value is 5
 the present place 20
 enter r to roll a dicer
-the dice value 4
-the present place 24
-enter r to roll a dice
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter r to roll a dicer
-the dice value 1
-the present place 1
-enter r to roll a dicer
-the dice value 6
-the present place 7
-enter r to roll a dicer
-the dice value 2
-the present place 9
-enter r to roll a dice
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-player1rajesh
-enter r to roll a dicer
-the dice value 1
-the present place 1
-enter r to roll a dicer
-the dice value 4
-the present place 5
-enter r to roll a dicer
-the dice value 2
-the present place 7
-enter r to roll a dicer
-the dice value 3
-the present place 10
-enter r to roll a dicer
-the dice value 3
-the present place 13
-ladder
-enter r to roll a dicer
-the dice value 1
-the present place 35
-enter r to roll a dicer
-the dice value 2
-the present place 37
-enter r to roll a dicer
-the dice value 1
-the present place 38
-snake
-enter r to roll a dicer
-the dice value 4
-the present place 13
-ladder
-enter r to roll a dicer
-the dice value 5
-the present place 39
-enter r to roll a dicer
-the dice value 2
-the present place 41
-enter r to roll a dice6+
-invaild
-the dice value 2
-the present place 41
-enter r to roll a dice
-invaild
-the dice value 2
-the present place 41
-enter r to roll a dice
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kr
-enter d to roll a diced
-Traceback (most recent call last):
-  File "/home/rajesh/rajesh/snadd.py", line 43, in <module>
-    r=r+d
-NameError: name 'r' is not defined
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kr
-enter d to roll a diced
-Traceback (most recent call last):
-  File "/home/rajesh/rajesh/snadd.py", line 43, in <module>
-    s=s+d
-NameError: name 's' is not defined
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kk
-enter d to roll a dice1sd
-Traceback (most recent call last):
-  File "/home/rajesh/rajesh/snadd.py", line 50, in <module>
-    m=m+d
-NameError: name 'm' is not defined
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kr
-enter d to roll a diced
-Traceback (most recent call last):
-  File "/home/rajesh/rajesh/snadd.py", line 54, in <module>
-    print("the dice value",r)
-NameError: name 'r' is not defined
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kr
-enter d to roll a diced
-the dice value 3
-the present place 3
-enter R or kk
-enter d to roll a dice1sd
-the dice value 5
-the present place 5
-enter R or kr
-enter d to roll a diced
-the dice value 4
-the present place 4
-enter R or k
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kr
-enter d to roll a diced
-the dice value 6
-the present place 6
-enter R or kk
-enter d to roll a dice1sd
-the dice value 1
-the present place 1
-enter R or kr
-enter d to roll a diced
-the dice value 6
-the present place 12
-enter R or kk
-enter d to roll a dice1sd
-the dice value 5
-the present place 6
-enter R or kr
-enter d to roll a diced
-the dice value 4
-the present place 16
-enter R or kr
-enter d to roll a diced
-the dice value 5
-the present place 21
-enter R or kr
-enter d to roll a diced
-the dice value 5
-the present place 26
-enter R or kr
-enter d to roll a diced
-the dice value 4
-the present place 30
-enter R or kr
-enter d to roll a diced
-the dice value 5
-the present place 35
-enter R or kr
-enter d to roll a diced
-the dice value 3
-the present place 38
-snake
-enter R or kr
-enter d to roll a diced
-the dice value 2
-the present place 40
-ladder
-enter R or k
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kr
-enter d to roll a diced
-the dice value 3
-the present place 3
-enter R or kk
-enter d to roll a dice1sd
-the dice value 6
-the present place 6
-enter R or kr
-enter d to roll a diced
-the dice value 5
-the present place 8
-ladder
-enter R or kk
-enter d to roll a dice1sd
-the dice value 3
-the present place 9
-enter R or kr
-enter d to roll a diced
-the dice value 2
-the present place 10
-enter R or k
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or k
-Traceback (most recent call last):
-  File "/home/rajesh/rajesh/snadd.py", line 53, in <module>
-    print("the dice value",d)
-NameError: name 'd' is not defined
->>> r
-Traceback (most recent call last):
-  File "<pyshell#2>", line 1, in <module>
-    r
-NameError: name 'r' is not defined
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kr
-enter d to roll a diced
-the dice value 4
-the present place 4
-enter R or kk
-enter d to roll a dice1sd
-the dice value 2
-the present place 6
-enter R or kr
-enter d to roll a diced
-the dice value 4
-the present place 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kr
-enter d to roll a dicer
-Traceback (most recent call last):
-  File "/home/rajesh/rajesh/snadd.py", line 54, in <module>
-    print("the dice value",d)
-NameError: name 'd' is not defined
->>> r
-Traceback (most recent call last):
-  File "<pyshell#3>", line 1, in <module>
-    r
-NameError: name 'r' is not defined
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kr
-enter d to roll a diced
-the dice value 2
-the present place 2
-enter R or kr
-enter d to roll a diced
-the dice value 4
-the present place 6
-enter R or kr
-enter d to roll a diced
-the dice value 6
-the present place 12
-enter R or kr
-enter d to roll a diced
-the dice value 6
-the present place 18
-enter R or kr
-enter d to roll a diced
-the dice value 5
+the dice value is 3
 the present place 23
-enter R or kr
-enter d to roll a diced
-the dice value 2
-the present place 25
-snake
-enter R or kr
-enter d to roll a diced
-the dice value 2
-the present place 27
-enter R or kr
-enter d to roll a diced
-the dice value 5
-the present place 32
-enter R or kr
-enter d to roll a diced
-the dice value 1
+enter r to roll a dicer
+the dice value is 6
+the present place 29
+enter r to roll a dicer
+the dice value is 4
 the present place 33
-enter R or kr
-enter d to roll a diced
-the dice value 1
-the present place 34
-enter R or kr
-enter d to roll a diced
-the dice value 4
-the present place 38
-snake
-enter R or kr
-enter d to roll a diced
-the dice value 1
-the present place 39
-enter R or kr
-enter d to roll a diced
-the dice value 5
-the present place 44
-enter R or kr
-enter d to roll a diced
-the dice value 6
-the present place 50
-enter R or kr
-enter d to roll a diced
-the dice value 2
-the present place 52
-ladder
-enter R or kr
-enter d to roll a diced
-the dice value 4
-the present place 56
-enter R or kr
-enter d to roll a diced
-the dice value 6
-the present place 62
-enter R or kr
-enter d to roll a diced
-the dice value 6
-the present place 68
-enter R or kr
-enter d to roll a diced
-the dice value 4
-the present place 72
-enter R or kr
-enter d to roll a diced
-the dice value 2
-the present place 74
-enter R or kr
-enter d to roll a diced
-the dice value 4
-the present place 78
-enter R or kr
-enter d to roll a dicedr
-the dice value 4
-the present place 78
-enter R or kr
-enter d to roll a diced
-the dice value 5
-the present place 83
-enter R or kr
-enter d to roll a diced
-the dice value 4
-the present place 87
-enter R or kr
-enter d to roll a diced
-the dice value 3
-the present place 90
-enter R or kr
-enter d to roll a diced
-the dice value 6
-the present place 96
-enter R or kr
-enter d to roll a diced
-the dice value 3
-the present place 99
-enter R or kr
-enter d to roll a diced
-the dice value 6
-the present place 105
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kr
-enter d to roll a diced
-the dice value 2
-the present place 2
-enter R or kk
-enter d to roll a dice1sd
-the dice value 2
-the present place 4
-enter R or kr
-enter d to roll a diced
-the dice value 4
-the present place 8
-ladder
-enter R or kr
-enter d to roll a dice
-the dice value 4
+enter r to roll a dicer
+the dice value is 4
 the present place 37
-enter R or kk
-enter d to roll a dice1sd
-the dice value 5
-the present place 42
-enter R or kr
-enter d to roll a diced
-the dice value 1
+enter r to roll a dicer
+the dice value is 3
+the present place 40
+i had climed the ladder
+enter r to roll a dicer
+the dice value is 5
+the present place 73
+enter r to roll a dicer
+the dice value is 3
+the present place 76
+i had climed the ladder
+enter r to roll a dicer
+the dice value is 1
+the present place 98
+enter r to roll a dicer
+the dice value is 6
+the present place 104
+ roll a dice again
+enter r to roll a dicer
+the dice value is 6
+the present place 104
+ roll a dice again
+enter r to roll a dicer
+the dice value is 3
+the present place 101
+ roll a dice again
+enter r to roll a dicer
+the dice value is 2
+the present place 100
+i had won the game
+ roll a dice again
+enter r to roll a dicer
+the dice value is 1
+the present place 99
+enter r to roll a dicer
+the dice value is 4
+the present place 103
+ roll a dice again
+enter r to roll a dicer
+the dice value is 4
+the present place 103
+ roll a dice again
+enter r to roll a dicer
+the dice value is 2
+the present place 101
+ roll a dice again
+enter r to roll a dicer
+the dice value is 5
+the present place 104
+ roll a dice again
+enter r to roll a dicer
+the dice value is 5
+the present place 104
+ roll a dice again
+enter r to roll a dicer
+the dice value is 6
+the present place 105
+ roll a dice again
+enter r to roll a dicer
+the dice value is 2
+the present place 101
+ roll a dice again
+enter r to roll a dicer
+the dice value is 3
+the present place 102
+ roll a dice again
+enter r to roll a dicer
+the dice value is 6
+the present place 105
+ roll a dice again
+enter r to roll a dicer
+the dice value is 1
+the present place 100
+i had won the game
+ roll a dice again
+enter r to roll a dicer
+the dice value is 5
+the present place 104
+ roll a dice again
+enter r to roll a dicer
+the dice value is 3
+the present place 102
+ roll a dice again
+enter r to roll a dice
+======================== RESTART: /home/rajesh/rl.py ========================
+enter r to roll a dicer
+the dice value is 5
+the present place 5
+enter r to roll a dicer
+the dice value is 3
+the present place 8
+i had climed the ladder
+enter r to roll a dicer
+the dice value is 6
 the present place 43
-enter R or k
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or k
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kr
-enter d to roll a dimed
-the dice value 3
-Traceback (most recent call last):
-  File "/home/rajesh/rajesh/snadd.py", line 86, in <module>
-    print("the present place",c)
-NameError: name 'c' is not defined
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kr
-enter d to roll a dimed
-the dice value 3
-the present place 3 0
->>> r
-Traceback (most recent call last):
-  File "<pyshell#4>", line 1, in <module>
-    r
-NameError: name 'r' is not defined
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kk
-enter d to roll a dice1sd
-the dice value 5
-the present place 0 5
-enter R or kr
-enter d to roll a dimed
-the dice value 1
-the present place 1 5
-enter R or kr
-enter d to roll a dimed
-the dice value 1
-the present place 2 5
-enter R or kr
-enter d to roll a dimek
-the dice value 1
-the present place 2 5
-enter R or k
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kr
-enter d to roll a dimed
-the dice value 1
-the present place p1 1
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kk
-enter d to roll a dice1sd
-the dice value 2
-the present place p1 0
-enter R or kr
-enter d to roll a dimed
-the dice value 5
-the present place p1 5
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kk
-enter d to roll a dice1sd
-the dice value 5
-the present place p1 0
-enter R or kk
-enter d to roll a dice1sd
-the dice value 1
-the present place p1 0
-enter R or kk
-enter d to roll a dice1sd
-the dice value 2
-the present place p1 0
-ladder
-enter R or k
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kk
-enter d to roll a dice1sd
-the dice value 4
-the present place p1 4
-enter R or kk
-enter d to roll a dice1sd
-the dice value 1
-the present place p1 5
-enter R or kk
-enter d to roll a dice1sd
-the dice value 1
-the present place p1 6
-enter R or kk
-enter d to roll a dice1sd
-the dice value 5
-the present place p1 11
-snake
-enter R or kk
-enter d to roll a dice1sd
-the dice value 1
-the present place p1 3
-enter R or kr
-enter d to roll a dimed
-the dice value 5
-the present place p1 5
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kr
-enter d to roll a dimed
-the dice value 5
-the present place p1 5
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or ko
-invaild
-enter R or kr
-enter d to roll a dimed
-the dice value 3
-the present place p1 3
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kr
-enter d to roll a dimed
-the dice value 2
-the present place p1 2
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kr
-enter d to roll a dimed
-the dice value 3
-the present place p1 3
-enter R or kr
-enter d to roll a dimed
-the dice value 2
-the present place p1 5
-enter R or kr
-enter d to roll a dimed
-the dice value 6
-the present place p1 11
-snake
-enter R or kr
-enter d to roll a dimed
-the dice value 4
-the present place p1 6
-enter R or kk
-enter d to roll a dice1sd
-the dice value 4
-the present place p1 4
-enter R or kk
-enter d to roll a dice1sd
-the dice value 2
-the present place p1 6
-enter R or kk
-enter d to roll a dice1sd
-the dice value 1
-the present place p1 7
-enter R or kk
-enter d to roll a dice1sd
-the dice value 4
-the present place p1 11
-snake
-enter R or kk
-enter d to roll a dice1sd
-the dice value 5
-the present place p1 7
-enter R or kk
-enter d to roll a dice1sd
-the dice value 5
-the present place p1 12
-enter R or kk
-enter d to roll a dice1sd
-the dice value 3
-the present place p1 15
-enter R or kk
-enter d to roll a dice1sd
-the dice value 6
-the present place p1 21
-enter R or kk
-enter d to roll a dice1sd
-the dice value 1
-the present place p1 22
-enter R or kk
-enter d to roll a dice1sd
-the dice value 6
-the present place p1 28
-enter R or kk
-enter d to roll a dice1sd
-the dice value 1
-the present place p1 29
-enter R or kk
-enter d to roll a dice1sd
-the dice value 5
-the present place p1 34
-enter R or kk
-enter d to roll a dice1sd
-the dice value 4
-the present place p1 38
-snake
-enter R or kk
-enter d to roll a dice1sd
-the dice value 4
-the present place p1 13
-ladder
-enter R or kk
-enter d to roll a dice1sd
-the dice value 4
-the present place p1 38
-snake
-enter R or kk
-enter d to roll a dice1sd
-the dice value 3
-the present place p1 12
-enter R or kk
-enter d to roll a dice1sd
-the dice value 6
-the present place p1 18
-enter R or kk
-enter d to roll a dice1sd
-the dice value 1
-the present place p1 19
-enter R or kk
-enter d to roll a dice1sd
-the dice value 2
-the present place p1 21
-enter R or kk
-enter d to roll a dice1sd
-the dice value 1
-the present place p1 22
-enter R or kk
-enter d to roll a dice1sd
-the dice value 1
-the present place p1 23
-enter R or kk
-enter d to roll a dice1sd
-the dice value 5
-the present place p1 28
-enter R or kk
-enter d to roll a dice1sd
-the dice value 6
-the present place p1 34
-enter R or kk
-enter d to roll a dice1sd
-the dice value 3
-the present place p1 37
-enter R or kk
-enter d to roll a dice1sd
-the dice value 6
-the present place p1 43
-enter R or kk
-enter d to roll a dice1sd
-the dice value 3
-the present place p1 46
-enter R or kkd
-invaild
-enter R or kk
-enter d to roll a dice1sd
-the dice value 2
-the present place p1 48
-enter R or kk
-enter d to roll a dice1sd
-the dice value 4
-the present place p1 52
-ladder
-enter R or kk
-enter d to roll a dice1sd
-the dice value 1
-the present place p1 82
-enter R or kk
-enter d to roll a dice1sd
-the dice value 3
-the present place p1 85
-enter R or kkd
-invaild
-enter R or kk
-enter d to roll a dice1sd
-the dice value 3
-the present place p1 88
-enter R or kk
-enter d to roll a dice1sd
-the dice value 5
-the present place p1 93
-snake
-enter R or kkd
-invaild
-enter R or kk
-enter d to roll a dice1sd
-the dice value 4
-the present place p1 68
-enter R or kk
-enter d to roll a dice1sd
-the dice value 5
-the present place p1 73
-enter R or kk
-enter d to roll a dice1sd
-the dice value 2
-the present place p1 75
-enter R or kkd
-invaild
-enter R or kk
-enter d to roll a dice1sd
-the dice value 3
-the present place p1 78
-enter R or kk
-enter d to roll a dice1sd
-the dice value 3
-the present place p1 81
-enter R or kk
-enter d to roll a dice1sd
-the dice value 2
-the present place p1 83
-enter R or kkd
-invaild
-enter R or kk
-enter d to roll a dice1sd
-the dice value 2
-the present place p1 85
-enter R or kk
-enter d to roll a dice1sd
-the dice value 2
-the present place p1 87
-enter R or kk
-enter d to roll a dice1sd
-the dice value 2
-the present place p1 89
-enter R or kk
-enter d to roll a dice1sd
-the dice value 4
-the present place p1 93
-snake
-enter R or kk
-enter d to roll a dice1sd
-the dice value 3
-the present place p1 67
-enter R or kk
-enter d to roll a dice1sd
-the dice value 6
-the present place p1 73
-enter R or kk
-enter d to roll a dice1sd
-the dice value 2
-the present place p1 75
-enter R or kk
-enter d to roll a dice1sd
-the dice value 5
-the present place p1 80
-enter R or kk
-enter d to roll a dice1sd
-the dice value 1
-the present place p1 81
-enter R or kk
-enter d to roll a dice1sd
-the dice value 6
-the present place p1 87
-enter R or kk
-enter d to roll a dice1sd
-the dice value 5
-the present place p1 92
-enter R or kk
-enter d to roll a dice1sd
-the dice value 3
-the present place p1 95
-enter R or kk
-enter d to roll a dice1sd
-the dice value 3
-the present place p1 98
-enter R or kk
-enter d to roll a dice1sd
-the dice value 2
-the present place p1 100
-won
-enter R or kk
-enter d to roll a dice1sd
-the dice value 2
-the present place p1 102
-won
-enter R or kkd
-invaild
-won
-enter R or kk
-enter d to roll a dice1sd
-the dice value 1
-the present place p1 103
-won
-enter R or kkk
-invaild
-won
-enter R or k
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kk
-enter d to roll a dice1sd
-the dice value 6
-the present place p1 6
-enter R or kr
-enter d to roll a dimed
-the dice value 5
-the present place p1 5
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-Traceback (most recent call last):
-  File "/home/rajesh/rajesh/snadd.py", line 5, in <module>
-    while(s<=100//m<=100):
-ZeroDivisionError: integer division or modulo by zero
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kr
-enter d to roll a dimed
-the dice value 2
-the present place p1 2
->>> 
-=================== RESTART: /home/rajesh/rajesh/snadd.py ===================
-enter R or kr
-enter d to roll a dimed
-the dice value 4
-the present place p1 4
-enter R or kr
-enter d to roll a dimed
-the dice value 4
-the present place p1 8
-ladder
-enter R or kr
-enter d to roll a dimed
-the dice value 5
-the present place p1 42
-enter R or kr
-enter d to roll a dimed
-the dice value 3
-the present place p1 45
-enter R or kr
-enter d to roll a dimed
-the dice value 5
-the present place p1 50
-enter R or kr
-enter d to roll a dimed
-the dice value 1
-the present place p1 51
-enter R or kr
-enter d to roll a dimed
-the dice value 2
-the present place p1 53
-enter R or kr
-enter d to roll a dimed
-the dice value 3
-the present place p1 56
-enter R or kr
-enter d to roll a dimed
-the dice value 1
-the present place p1 57
-enter R or kr
-enter d to roll a dimed
-the dice value 3
-the present place p1 60
-enter R or kr
-enter d to roll a dimed
-the dice value 5
-the present place p1 65
-snake
-enter R or kr
-enter d to roll a dimed
-the dice value 2
-the present place p1 48
-enter R or kr
-enter d to roll a dimed
-the dice value 6
-the present place p1 54
-enter R or kr
-enter d to roll a dimed
-the dice value 4
-the present place p1 58
-enter R or kr
-enter d to roll a dimed
-the dice value 1
-the present place p1 59
-enter R or kr
-enter d to roll a dimed
-the dice value 4
-the present place p1 63
-enter R or kr
-enter d to roll a dimed
-the dice value 2
-the present place p1 65
-snake
-enter R or kr
-enter d to roll a dimed
-the dice value 4
-the present place p1 50
-enter R or kr
-enter d to roll a dimed
-the dice value 2
-the present place p1 52
-ladder
-enter R or kr
-enter d to roll a dimed
-the dice value 4
-the present place p1 85
-enter R or kr
-enter d to roll a dimed
-the dice value 3
-the present place p1 88
-enter R or kr
-enter d to roll a dimed
-the dice value 2
-the present place p1 90
-enter R or kr
-enter d to roll a dimed
-the dice value 1
-the present place p1 91
-enter R or kr
-enter d to roll a dimed
-the dice value 1
-the present place p1 92
-enter R or kr
-enter d to roll a dimed
-the dice value 3
-the present place p1 95
-enter R or kr
-enter d to roll a dimed
-the dice value 2
-the present place p1 97
-enter R or kr
-enter d to roll a dimed
-the dice value 4
-the present place p1 101
->>> 
+enter r to roll a dicer
+the dice value is 2
+the present place 45
+enter r to roll a dicer
+the dice value is 5
+the present place 50
+enter r to roll a dicer
+the dice value is 4
+the present place 54
+enter r to roll a dicer
+the dice value is 4
+the present place 58
+enter r to roll a dicer
+the dice value is 5
+the present place 63
+enter r to roll a dicer
+the dice value is 2
+the present place 65
+snake has bite
+enter r to roll a dicer
+the dice value is 2
+the present place 48
+enter r to roll a dicer
+the dice value is 5
+the present place 53
+enter r to roll a dicer
+the dice value is 5
+the present place 58
+enter r to roll a dicer
+the dice value is 5
+the present place 63
+enter r to roll a dicer
+the dice value is 3
+the present place 66
+enter r to roll a dicer
+the dice value is 6
+the present place 72
+enter r to roll a dicer
+the dice value is 1
+the present place 73
+enter r to roll a dicer
+the dice value is 4
+the present place 77
+enter r to roll a dicer
+the dice value is 3
+the present place 80
+enter r to roll a dicer
+the dice value is 1
+the present place 81
+enter r to roll a dicer
+the dice value is 5
+the present place 86
+enter r to roll a dicer
+the dice value is 1
+the present place 87
+enter r to roll a dicer
+the dice value is 1
+the present place 88
+enter r to roll a dicer
+the dice value is 6
+the present place 94
+enter r to roll a dicer
+the dice value is 3
+the present place 97
+enter r to roll a dicer
+the dice value is 2
+the present place 99
+enter r to roll a dicer
+the dice value is 2
+the present place 101
+ roll a dice again
+enter r to roll a dicer
+the dice value is 1
+the present place 100
+i had won the game
+>>>
