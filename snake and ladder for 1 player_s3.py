@@ -1,7 +1,7 @@
 #program to play snake and ladder
 import random
 c=0
-while(c<=100):
+while(c<100):
     a=input("enter r to roll a dice")
     if(a=='r'):
         r=random.randint(1,6)
@@ -44,9 +44,8 @@ while(c<=100):
         c=64
         print("snake has bite")
     if(c==100):
-        print("i had won the game")
-        quit()
-    if(c>=100):
+        print("i had won the game")   
+    if(c>100):
         c=c-r
         print(" roll a dice again")
 
