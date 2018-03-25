@@ -8,5 +8,5 @@ user.send_keys("rajesh.17cs@cmr.edu.in")
 #typing the password
 password=browser.find_element_by_xpath('//*[@id="password"]')
 password.send_keys("")
-#login in the fb account
+#login in the github account
 lb=browser.find_element_by_xpath('//*[@id="login"]/form/div[3]/input[3]').click()
