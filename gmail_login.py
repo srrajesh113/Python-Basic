@@ -7,12 +7,12 @@ browser.get('https://accounts.google.com/signin/v2/identifier?service=mail&passi
 user=browser.find_element_by_xpath('//*[@id="identifierId"]')
 user.send_keys("srrajesh113@gmail.com")
 
-#login in the fb account
+#click next in the gmail account
 lb=browser.find_element_by_xpath('//*[@id="identifierNext"]/content').click()
 time.sleep(5)
 #typing the password
 password=browser.find_element_by_xpath('//*[@id="password"]/div[1]/div/div[1]/input')
-password.send_keys("rajesh123$")
-#login in the fb account
+password.send_keys("")
+#login in the gmail account
 lb=browser.find_element_by_xpath('//*[@id="passwordNext"]/content').click()
 
