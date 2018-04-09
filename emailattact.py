@@ -8,7 +8,7 @@ def SendMail(executable_path="/home/rajesh/Pictures/Screenshot from 2018-03-01 1
     msg = MIMEMultipart()
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.starttls()
-    server.login("srrajesh113@gmail.com", "rajesh123$")
+    server.login("srrajesh113@gmail.com", "")
     text = MIMEText("hello")
     msg.attach(text)
     image = MIMEImage(img_data, name=os.path.basename("/home/rajesh/Pictures/Screenshot from 2018-03-01 15-55-00.png"))
