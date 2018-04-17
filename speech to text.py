@@ -8,4 +8,3 @@ with sr.Microphone() as source:
     text = r.recognize_google(audio)
     print('Google thinks you said:\n' + text)
 
-
